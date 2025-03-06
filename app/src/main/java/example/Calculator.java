@@ -3,7 +3,8 @@ package example;
 public class Calculator {
     public int add(int a, int b) {
         // TODO: Implement this method
-        return a + b + a;
+        // Adding a comment to see if my comitts work
+        return a + b;
     }
 
     public int minus(int a, int b) {
